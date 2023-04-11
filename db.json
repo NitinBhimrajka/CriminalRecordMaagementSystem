@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "name": "Aryan Kumar",
+      "location": "Biddhanagar",
+      "tenure": "11 years",
+      "joindate": "12-11-2016",
+      "crime": "Assault",
+      "work": "Making dinner",
+      "id": 3
+    },
+    {
+      "name": "Abhishek Ghosh",
+      "location": "SaltLake-V",
+      "tenure": "03 years",
+      "joindate": "06-08-2021",
+      "crime": "Burglary",
+      "work": "Painting",
+      "id": 7
+    },
+    {
+      "name": "Rahul Yadav",
+      "location": "Howrah",
+      "tenure": "08 years",
+      "joindate": "21-07-15",
+      "crime": "Domestic Violence",
+      "work": "GroundKeeper",
+      "id": 9
+    },
+    {
+      "name": "Gayendra Pratap Trivedi",
+      "location": "Liluah",
+      "tenure": "12 years",
+      "joindate": "04-11-2013",
+      "crime": "Murder",
+      "work": "Cleaning Utensils",
+      "id": 10
+    },
+    {
+      "name": "Sarthak Kumar",
+      "location": "Hindmotor",
+      "tenure": "05 years",
+      "joindate": "12-03-2022",
+      "crime": "Cybercrime",
+      "work": "Agriculture",
+      "id": 11
+    },
+    {
+      "name": "Dilip Bansal",
+      "location": "Dunlop",
+      "tenure": "02 years",
+      "joindate": "20-06-2021",
+      "crime": "Money Laundering",
+      "work": "NA",
+      "id": 12
+    },
+    {
+      "name": "Anjali Hamirwasia",
+      "location": "Bhawanipur",
+      "tenure": "18 months",
+      "joindate": "13-05-2022",
+      "crime": "Theft",
+      "work": "Cleaning",
+      "id": 13
+    },
+    {
+      "name": "Udit Jha",
+      "location": "Chandannagar",
+      "tenure": "14 years",
+      "joindate": "11-01-2016",
+      "crime": "Murder",
+      "work": "Wood Cutting",
+      "id": 14
+    },
+    {
+      "name": "Nitin",
+      "location": "BElur",
+      "tenure": "20 years",
+      "joindate": "22-11-2022",
+      "crime": "Murder",
+      "work": "Cokking",
+      "id": 15
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+.hue {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  font-family: "Staatliches", cursive;
+  margin-bottom: 40px;
+  text-decoration: underline;
+}
+
+.not-found {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.try {
+  /* margin: auto; */
+  width: 70%;
+  padding: 10px;
+  font-size: large;
+  font-weight: 900;
+  margin-right: 30px;
+  font-family: "Staatliches", cursive;
+}
+.he {
+  padding-right: 360px;
+  font-family: "Staatliches", cursive;
+}
+
+.hometry {
+  margin: 30px;
+  text-align: center;
+  font-family: "Barlow", sans-serif;
+  font-weight: bold;
+  /* font-style: italic; */
+  text-decoration: underline;
+  font-family: "PT Sans Narrow", sans-serif;
+  padding-bottom: 12px;
+}
+
+.fontbetter {
+  font-size: large;
+  font-weight: 600;
+
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 20px;
+}
+
+.fontbetter2 {
+  font-size: large;
+  font-weight: 600;
+
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 30px;
+  text-decoration: underline;
+  padding-bottom: 24px;
+}
+
+::placeholder {
+  font-family: "Staatliches", cursive;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.Uss {
+  font-family: "PT Sans Narrow", sans-serif;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  font-size: 55px;
+}
+
+.odd {
+  color: rgba(255, 70, 3, 0.959);
+}
+
+.btn1 {
+  margin-top: 20px;
+}
+
+.fontbetter3 {
+  font-size: large;
+  font-weight: 600;
+
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 22px;
+}
+.tryy {
+  justify-content: center;
+  text-align: center;
+}
